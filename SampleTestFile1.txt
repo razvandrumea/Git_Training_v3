@@ -1,1 +1,3 @@
+Git commit file 2
+
 SampleTestFile1.txt This is sample file1
